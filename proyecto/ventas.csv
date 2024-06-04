@@ -1,0 +1,68 @@
+ID,Fecha,Producto,Categoría,Precio,Cantidad,Total
+1,2024-06-03,yus,h,1.0,1,1.0
+2,2023-12-16,Vestido,Ropa,382.49,2,764.98
+3,2023-09-25,Vestido,Ropa,52.23,2,104.46
+4,2023-12-19,Vestido,Ropa,954.94,19,18143.86
+5,2023-12-19,Puerta,Hogar,66.66,18,1199.88
+6,2024-05-01,Aire acondicionado,Electrodomestico,616.9,9,5552.1
+7,2024-03-24,Pantalon,Ropa,932.15,17,15846.55
+8,2024-05-31,Cama,Muebles,138.06,13,1794.78
+9,2023-11-08,Refrigerador,Electrodomésticos,355.28,3,1065.84
+10,2023-06-21,Juego de comedor,Hogar,717.21,17,12192.57
+11,2024-04-13,Juego de comedor,Hogar,755.42,19,14352.98
+12,2023-12-11,Vestido,Ropa,406.38,10,4063.8
+13,2023-06-15,Pantalon,Ropa,806.29,12,9675.48
+14,2023-07-09,Cama,Muebles,370.08,5,1850.4
+15,2023-08-06,Cuadros,Hogar,237.47,7,1662.29
+16,2024-03-30,Lavadora,Electrodomestico,966.4,2,1932.8
+17,2023-11-22,Refrigerador,Electrodomésticos,154.37,20,3087.4
+18,2023-11-18,Cuadros,Hogar,930.97,14,13033.58
+19,2024-01-13,Pantalon,Ropa,285.59,19,5426.21
+20,2023-11-24,Refrigerador,Electrodomésticos,59.59,11,655.49
+21,2023-06-13,Vestido,Ropa,542.21,15,8133.15
+22,2024-02-17,Vestido,Ropa,473.05,2,946.1
+23,2024-06-03,m,m,1.0,1,1.0
+24,2024-02-23,Cuadros,Hogar,333.38,5,1666.9
+25,2023-10-22,Puerta,Hogar,178.49,8,1427.92
+26,2023-11-27,Refrigerador,Electrodomésticos,975.39,19,18532.41
+27,2023-12-04,Guitarra,Electrónica,142.7,9,1284.3
+28,2023-06-21,Aire acondicionado,Electrodomestico,911.22,18,16401.96
+29,2024-04-17,Aire acondicionado,Electrodomestico,896.28,2,1792.56
+30,2023-10-20,Guitarra,Electrónica,515.9,10,5159.0
+31,2023-09-29,Pantalon,Ropa,493.1,11,5424.1
+32,2024-04-04,Cama,Muebles,415.76,5,2078.8
+33,2023-10-21,Refrigerador,Electrodomésticos,165.5,15,2482.5
+34,2024-01-01,Refrigerador,Electrodomésticos,496.13,1,496.13
+35,2024-02-20,Pantalon,Ropa,861.11,7,6027.77
+36,2024-03-13,Puerta,Hogar,394.1,20,7882.0
+37,2023-09-12,Cama,Muebles,465.86,11,5124.46
+38,2024-01-20,Refrigerador,Electrodomésticos,551.16,20,11023.2
+39,2023-07-14,Puerta,Hogar,994.29,14,13920.06
+40,2023-12-22,Puerta,Hogar,556.29,6,3337.74
+41,2023-08-18,Guitarra,Electrónica,295.62,13,3843.06
+42,2023-08-23,Vestido,Ropa,674.52,4,2698.08
+43,2023-08-09,Pantalon,Ropa,473.44,18,8521.92
+44,2024-02-05,Guitarra,Electrónica,132.49,19,2517.31
+45,2024-06-03,a,a,1.0,1,1.0
+46,2023-07-07,Vestido,Ropa,798.3,2,1596.6
+47,2024-02-24,Guitarra,Electrónica,894.6,5,4473.0
+48,2023-11-12,Juego de comedor,Hogar,705.56,7,4938.92
+49,2023-12-15,Cuadros,Hogar,485.92,13,6316.96
+50,2023-09-13,Guitarra,Electrónica,109.14,10,1091.4
+51,2023-09-19,Pantalon,Ropa,167.33,12,2007.96
+52,2023-06-22,Juego de comedor,Hogar,50.67,2,101.34
+53,2023-10-12,Lavadora,Electrodomestico,807.86,4,3231.44
+54,2023-10-14,Cuadros,Hogar,876.31,2,1752.62
+55,2023-07-20,Lavadora,Electrodomestico,879.63,6,5277.78
+56,2024-02-15,Juego de comedor,Hogar,126.78,16,2028.48
+57,2023-08-31,Aire acondicionado,Electrodomestico,384.65,16,6154.4
+58,2024-02-11,Vestido,Ropa,919.78,6,5518.68
+59,2024-05-29,Juego de comedor,Hogar,583.46,18,10502.28
+60,2024-01-13,Juego de comedor,Hogar,35.69,3,107.07
+61,2023-10-25,Guitarra,Electrónica,218.36,16,3493.76
+62,2024-01-22,Cama,Muebles,919.28,7,6434.96
+63,2023-12-01,Cama,Muebles,871.0,6,5226.0
+64,2024-04-01,Guitarra,Electrónica,440.99,3,1322.97
+65,2024-05-27,Aire acondicionado,Electrodomestico,331.25,13,4306.25
+66,2024-05-02,Refrigerador,Electrodomésticos,201.58,7,1411.06
+67,2024-06-03,yus,h,1.0,1,1.0
